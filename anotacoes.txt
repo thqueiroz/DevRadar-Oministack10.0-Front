@@ -1,0 +1,3 @@
+// component: bloco isolado de html, css e js o qual nao interfere no restante na aplicacao
+// propriedade: informacoes que um component pai passa para o component filho
+// estado: informacoes mantidas pelo component
